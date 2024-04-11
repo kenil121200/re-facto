@@ -7,7 +7,7 @@ Once you have installed all the dependencies, you can proceed with building the 
 ### Backend Application
 For the backend python/django application, navigate to the project directory and run the following command to build the application:
 
-1. Navigate to the project directory: `cd Group10/`
+1. Navigate to the project directory: `cd re-facto/`
 2. Install the backend dependencies: `poetry install`
 3. Run the server: `poetry run python manage.py runserver`
 
