@@ -28,8 +28,6 @@ Re-Facto is a comprehensive Django and React application designed to streamline 
 
 To access the Application, Go to Github's Marketplace and search for Re-facto, or click [here](https://github.com/marketplace/re-facto)
 
-If you want to access the live website click [here](http://129.173.67.172/).
-
 ## Documentation
 
 ### External Dependencies
